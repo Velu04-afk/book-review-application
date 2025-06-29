@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy[asyncio]
+asyncpg
+aioredis
+pydantic
+pydantic-settings
+python-dotenv
+psycopg2
+alembic
